@@ -8,7 +8,7 @@ featuring real-time data logging and visualization.
 Solve for Voltage (v), Current (I), or Resistance (R) instantly.
 #### RC Circuit Simulator:
 Simulate the charging and discharging behavior of capacitors.
-Calculates the time constant T= R x C.Models voltage across the capacitor over time using V(t) = V_0(1 - e^{-t/\tau}).
+Calculates the time constant T= R x C.Models voltage across the capacitor over time using V(t) = Vo(1-e^-t/T).
 #### Data Logging:
 Automatically logs simulation results to .csv or .txt files for later analysis.Dynamic Plotting: Generates clean, professional graphs of voltage and current curves using Matplotlib.
 #### Installation
