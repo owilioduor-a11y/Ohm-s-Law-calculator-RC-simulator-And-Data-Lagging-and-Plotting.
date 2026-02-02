@@ -1,4 +1,5 @@
-## Ohm’s Law Calculator, RC Simulator & Data LoggerWelcome to the Ohm’s Law Calculator & RC Simulator. 
+### Ohm’s Law Calculator, RC Simulator & Data Logger
+
 This project is a versatile Python-based tool designed for students, hobbyists, and engineers. 
 It combines fundamental circuit calculations with dynamic RC (Resistor-Capacitor) circuit simulations, 
 featuring real-time data logging and visualization.
